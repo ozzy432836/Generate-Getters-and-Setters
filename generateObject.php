@@ -313,15 +313,6 @@ function blank_field($field) {
     // should never get here
     return TRUE;
 }
-
-function kill_all_human($method){
-  $human = TRUE;
-  if($human == FALSE){
-    echo "Im am going to kill you with a" . $method;
-  }else{
-    echo "hahaha i can't belive that a" . $method . "killed you";
-  }
-}
 ?>
 </div><!--close #code-->
 </div><!-- close #container-->
