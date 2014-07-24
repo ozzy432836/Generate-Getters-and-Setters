@@ -16,4 +16,4 @@ Instructions:
 10) Fill in anymore fields with variable names and click submit
 11) Thats it. You now have a class in VB or PHP (or possibly C#) and you dont have to write all the getters and setters for all your variables.
 12) Downside - in VB (and therefore C#) you cant defint a type for each variable. It just assigns type Object to all of them. Its more useful for PHP OOP
-13) Need any more help, email info@digitalquarter.co.uk or info@digitalquarter.uk (buying second domain soon)
+13) Need any more help, email code@digitalquarter.co.uk or code@digitalquarter.uk (buying second domain soon)
